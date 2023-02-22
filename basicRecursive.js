@@ -8,3 +8,9 @@ function countDown(num){
     countDown(num);
 }
 countDown(5);
+// output:5
+// 4
+// 3
+// 2
+// 1
+// All Done!
